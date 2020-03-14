@@ -8,12 +8,7 @@
 int main(int argc, string argv[])
 {
     string keytext = argv[1];
-
-    // Here, we're verifying that, IF argc = 2, the digits in argv[1] are all alphabetical characters.
-    // We must do this in a separate "IF" conditional.  If we include it with the other "IF/ELSE" conditional below, the program won't execute because, IF argc = 2, the only thing we're prompting the program to do
-    // is to verify that argv[1] has all alphabetical charcters.  Somehow, this negates the "else" portion from executing.
-    // I think that's what's happening, anyway, as including an "else if" statement or mixing the order doesn't prompt "Enter your message: "
-
+    
     if (argc == 2)
     {
         for (int i = 0; i < strlen(keytext); i++)
