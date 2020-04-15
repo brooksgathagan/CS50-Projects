@@ -1,5 +1,6 @@
 This repo contains several small projects/challenges completed for the "C" portion of Harvard's CS50 course.
-I took this course in 2019 to begin learning the fundamentals of programming & related CS prior to Tech Elevator's bootcamp (Jan, 2020 - May, 2020).
+I took this course in 2019 to begin learning the fundamentals of programming prior to Tech Elevator's bootcamp (Jan, 2020 - May, 2020).
+
 To briefly describe each project:
 
 Credit:
